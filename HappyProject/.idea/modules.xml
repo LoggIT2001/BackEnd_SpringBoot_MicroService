@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/API_Gateway/API_Gateway.iml" filepath="$PROJECT_DIR$/API_Gateway/API_Gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Cloud_Config/Cloud_Config.iml" filepath="$PROJECT_DIR$/Cloud_Config/Cloud_Config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Eureka_Server/Eureka_Server.iml" filepath="$PROJECT_DIR$/Eureka_Server/Eureka_Server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/HappyProject.iml" filepath="$PROJECT_DIR$/.idea/HappyProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Order_Service/Order_Service.iml" filepath="$PROJECT_DIR$/Order_Service/Order_Service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Payment_Service/Payment_Service.iml" filepath="$PROJECT_DIR$/Payment_Service/Payment_Service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Product_Service/Product_Service.iml" filepath="$PROJECT_DIR$/Product_Service/Product_Service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Proxy_Client/Proxy_Client.iml" filepath="$PROJECT_DIR$/Proxy_Client/Proxy_Client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Rating_Service/Rating_Service.iml" filepath="$PROJECT_DIR$/Rating_Service/Rating_Service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/User_Service/User_Service.iml" filepath="$PROJECT_DIR$/User_Service/User_Service.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Proxy_Client" />
+        <module name="Product_Service" />
+        <module name="API_Gateway" />
+        <module name="User_Service" />
+        <module name="Order_Service" />
+        <module name="Rating_Service" />
+        <module name="Cloud_Config" />
+        <module name="Eureka_Server" />
+        <module name="Payment_Service" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="API_Gateway" target="1.5" />
+      <module name="Cloud_Config" target="1.5" />
+      <module name="Eureka_Server" target="1.5" />
+      <module name="Order_Service" target="1.5" />
+      <module name="Payment_Service" target="1.5" />
+      <module name="Product_Service" target="1.5" />
+      <module name="Proxy_Client" target="1.5" />
+      <module name="Rating_Service" target="1.5" />
+      <module name="User_Service" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
